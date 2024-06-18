@@ -1,6 +1,6 @@
 # Experimental study for FAJRP-CS
 
-This project is the benchmarks and experiment results for the flexible assembly job-shop rescheduling problem with component sharing.
+This project includes the benchmarks and experiment results of the flexible assembly job-shop rescheduling problem with component sharing.
 
 
 The benchmarks are used to evaluate the proposed method in our published paper: 'Multi-objective evolutionary algorithm based flexible assembly job-shop rescheduling with component sharing for order insertion'; Everyone is welcome to use our results as comparing baseline and cite our paper:
